@@ -1,3 +1,3 @@
 # Using Closures in Structs
 
-  Box<dyn Fn(&T) -> bool>
+  `Box<dyn Fn(&T) -> bool>
