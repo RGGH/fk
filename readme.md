@@ -1,4 +1,3 @@
 # Using Closures in Structs
 
--Box
--Fn
+  Box<dyn Fn(&T) -> bool>
